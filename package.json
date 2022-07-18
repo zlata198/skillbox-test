@@ -16,5 +16,9 @@
   "bugs": {
     "url": "https://github.com/zlata198/skillbox-test/issues"
   },
-  "homepage": "https://github.com/zlata198/skillbox-test#readme"
+  "homepage": "https://github.com/zlata198/skillbox-test#readme",
+  "dependencies": {
+    "express": "^4.18.1",
+    "pg": "^8.7.3"
+  }
 }
